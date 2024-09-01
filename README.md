@@ -41,12 +41,3 @@
       hi, my name is alex-papineau :)
     </pre>
 </div>
-
-<code>
-const alexp = {
-  pronouns: "any",
-  code: [Javascript, HTML, CSS, PHP, NodeJS, jQuery],
-  tools: [React, git, GitHub],
-  programs: [Figma, Firefox, Photoshop, VSCode, WordPress],
-}
-</code>
