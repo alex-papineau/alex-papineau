@@ -1,3 +1,3 @@
 <picture>
-    <img alt="README Terminal Gif" src="output.gif">
+    <img draggable="false" alt="README Terminal Gif" src="output.gif">
 </picture>
