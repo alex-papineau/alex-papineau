@@ -1,5 +1,5 @@
-import gifos
-
+import gifos 
+# IMPORT BROKE
 # Initialize the Terminal object
 t = gifos.Terminal(
     width=800,
